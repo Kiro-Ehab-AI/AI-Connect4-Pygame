@@ -20,6 +20,7 @@ A fully interactive Connect-4 desktop application built with Python and Pygame. 
 2. Select the AI difficulty depth on the start screen.
 3. Use the mouse to drop your pieces (White) and try to beat the AI (Red)!
 
-<img width="1051" height="727" alt="image" src="https://github.com/user-attachments/assets/67ab9acb-a3b0-48e9-b340-e8a6ef95003a" />
+<img width="1050" height="730" alt="image" src="https://github.com/user-attachments/assets/8b979a29-a825-4d2e-9803-829a0c403aed" />
+
 
 
